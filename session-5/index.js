@@ -14,4 +14,4 @@ if (total > 70){
 
 if (total > 60){
 console.log("This grade is more than 60");  
-else if (total >90 && total <=70) {
+else if (total >90 && total <=70) 
